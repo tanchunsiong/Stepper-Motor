@@ -67,7 +67,7 @@ MIT License
 
 ## Links
 
-- Blog post: [www.tanchunsiong.com](https://www.tanchunsiong.com)
+- Blog post: [Face-Tracking Camera with Stepper Motor Control](https://www.tanchunsiong.com/2016/04/face-tracking-camera-with-stepper-motor-control/)
 - GitHub: [github.com/tanchunsiong](https://github.com/tanchunsiong)
 - LinkedIn: [linkedin.com/in/tanchunsiong](https://linkedin.com/in/tanchunsiong)
 - X: [x.com/tanchunsiong](https://x.com/tanchunsiong)
